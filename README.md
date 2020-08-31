@@ -11,4 +11,4 @@
 
 *Expect an output similar to this one*
 
-![image info](.output.png)
+![GitHub Logo](output.png)
